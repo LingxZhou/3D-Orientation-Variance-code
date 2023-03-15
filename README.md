@@ -1,1 +1,0 @@
-# 3D-Orientation-Variance-code
